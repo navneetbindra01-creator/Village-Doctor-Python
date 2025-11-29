@@ -1,12 +1,14 @@
-II-Medical-8B a free open source AI Doctor built by Diffusion Labs. It has more medical knowledge than all doctors. 
+II-Medical-8B a free open source AI Doctor built by Diffusion Labs. It has more medical knowledge than all doctors. For more information on the model, read: https://ii.inc/web/blog/post/ii-medical
+
 This simple Python program deploys this marvellous service to villages that struggle with access to health care and suffer from internet connectivity. 
 
 The program requires download of a large file: II-Medical-8B-1706.Q5_K_M.gguf
+https://huggingface.co/Intelligent-Internet/II-Medical-8B-1706-GGUF
 https://huggingface.co/Intelligent-Internet/II-Medical-8B
 
 The AI doctor works without internet connection. 
 
-Current issues relate to slow response times on standard 8-16gb Ram, Intel Chip laptops. 
+Current issues relate to slow response times on standard 8-16gb Ram, Intel Chip laptops. Of course, Nvidia chip would improve performance in a big way. 
 
 <img width="1583" height="1272" alt="image" src="https://github.com/user-attachments/assets/d76ff418-08b1-4907-a580-db15d64ec3bc" />
 
