@@ -12,3 +12,5 @@ Current issues relate to slow response times on standard 8-16gb Ram, Intel Chip 
 
 
 <img width="1069" height="881" alt="image" src="https://github.com/user-attachments/assets/6bfbda88-bf57-4599-bd2c-a591ed80f155" />
+
+<img width="1068" height="880" alt="image" src="https://github.com/user-attachments/assets/dc04578b-9297-46d2-8818-26ba009f3c20" />
